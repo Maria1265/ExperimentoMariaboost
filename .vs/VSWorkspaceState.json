@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\webapp",
+    "\\webapp\\assets",
+    "\\webapp\\assets\\default",
+    "\\webapp\\assets\\default\\images",
+    "\\webapp\\assets\\stFemale",
+    "\\webapp\\assets\\stFemale\\images",
+    "\\webapp\\assets\\stMale",
+    "\\webapp\\scripts",
+    "\\webapp\\scripts\\controllers"
+  ],
+  "SelectedNode": "\\webapp\\scripts\\services.js",
+  "PreviewInSolutionExplorer": false
+}
